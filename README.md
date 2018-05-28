@@ -2,6 +2,8 @@
 
 - 過去の為替推移をもとに15分後の為替価格を予測する
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## データセット
 
 - [GAIN Capital](http://ratedata.gaincapital.com/)
@@ -15,17 +17,27 @@ python download.py
 python make_dataset.py
 ```
 
-## 役立ちそうなライブラリ
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## ライブラリ
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 関連サービス
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## References
 
-### 参考URL
+### 参考記事
 
 - ryo_grid. [Twitter感情分析で株価予測の論文を検証したら約70%の精度で上下予測できた](https://qiita.com/ryo_grid/items/5a5ecc602186a3381c87), Qiita, 2017.
 - hayatoy. [トランプ氏のツイートを機械学習し、為替の予測をしてみた。〜GCP ML系使い倒し〜](http://qiita.com/hayatoy/items/708aa3fced2d37bc026c), Qiita, 2017.
 - Maho Nakata. [為替のTickdataをDukascopyからダウンロードする](https://www.slideshare.net/NakataMaho/tickdata), SlideShare, 2015.
+- [株価指数に対するヘッジ](https://imoz.jp/fund/correlation.html)
+- [仮想通貨チャート分析 〜テクニカル指標の有効性をデータで検証する〜](http://www.metaps.com/press/ja/blog-jp/367-2017-06-19-05-41-41), metaps, 2017-06-19.
+- Trading Studio. [深層強化学習をベースとしたAIトレードの検討〈準備編〉](http://www.metaps.com/press/ja/blog-jp/373-ai), metaps, 2017-08-10.
 
 ### 類似コンペ
 
@@ -47,4 +59,6 @@ python make_dataset.py
 - [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis)
 	- 次に買う商品の予測
 - [Outbrain Click Prediction](https://www.kaggle.com/c/outbrain-click-prediction)
+
+## 関連論文
 
