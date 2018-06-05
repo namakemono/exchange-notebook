@@ -38,6 +38,7 @@ python make_dataset.py
 - [株価指数に対するヘッジ](https://imoz.jp/fund/correlation.html)
 - [仮想通貨チャート分析 〜テクニカル指標の有効性をデータで検証する〜](http://www.metaps.com/press/ja/blog-jp/367-2017-06-19-05-41-41), metaps, 2017-06-19.
 - Trading Studio. [深層強化学習をベースとしたAIトレードの検討〈準備編〉](http://www.metaps.com/press/ja/blog-jp/373-ai), metaps, 2017-08-10.
+- [【入門編】機械学習で仮想通貨の価格予測！KerasでLSTMモデルを構築してビットコインとイーサリアムの翌日の価格を予測する方法](https://www.codexa.net/keras-lstm-cryptos-forecast/), codexa, 2018-02-23.
 
 ### 類似コンペ
 
